@@ -3,7 +3,7 @@
 Ein moderner Taschenrechner mit grafischer Benutzeroberfläche, programmiert in **Python mit Tkinter**.  
 Erweiterte Eingabemöglichkeiten, Designauswahl und viele mathematische Funktionen machen ihn zu einem vielseitigen Lern- und Übungsprojekt.
 
----
+
 
 ## ✅ Features
 
@@ -16,7 +16,6 @@ Erweiterte Eingabemöglichkeiten, Designauswahl und viele mathematische Funktion
 - Designs wählbar: Light & Dark Mode
 - Kommentierter, verständlicher Code – ideal für Einsteiger
 
----
 
 ## 🚀 So startest du das Projekt
 
